@@ -24,9 +24,9 @@ We are all interested in healthcare topic, we have decided to working on relatio
 
 **Please remember to update this section**
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Jiajun Huang: I am Jiajun Huang from China. I am currently year 3 major in CS. I love doing nothing:)
+- Terry Chang: I am Terry Chang, currently year 3 major in psychology 
+- Lydia Chein: A third year Management student with interest in computer science field. 
 
 ## Images
 
@@ -42,5 +42,6 @@ We are all interested in healthcare topic, we have decided to working on relatio
 
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
 
-
+Lantz, B. (2018, February 21). Medical Cost Personal Datasets. Kaggle. 
+https://www.kaggle.com/datasets/mirichoi0218/insurance 
 
