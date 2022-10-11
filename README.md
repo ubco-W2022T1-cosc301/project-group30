@@ -12,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here}
+We are all interested in healthcare topic, we have decided to working on relation between the medical price and people's data. We are curious about the amount of money one spend on medication, as USA has one of the most expensive healthcare system. This topic provides us a chance to stregthen our understanding on how other factors can affect healthcare cost. We also want to discover the variation between people's spending on healthcare, specfically, the difference between an adult male smoker and a male smoker over age of 50 spent on spending on medications and other healthcare supports, as well as difference in medical cost in different countries. In addition, we want to possibly integrate the knowledge of healthcare expenses into the realm of psychology, since besides medication costs, treatment and therapy for mental disorders are also considered in medical expenses. In conclusion, we deccided to work on this topic because it allows us to understand the healthcare system better, discover the variation in medical cost, and how it can be related to different realms of study. Ultimately, creating a chance for people to have a different perspective on healthcare costs.
 
 ## Describe your dataset in about 150-200 words
 
