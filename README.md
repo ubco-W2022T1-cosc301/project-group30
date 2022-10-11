@@ -12,13 +12,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-We are all interested in healthcare topic, we have decided to working on relation between the medical price and people's data. We are curious about the amount of money one spend on medication, as USA has one of the most expensive healthcare system. This topic provides us a chance to stregthen our understanding on how other factors can affect healthcare cost. We also want to discover the variation between people's spending on healthcare, specfically, the difference between an adult male smoker and a male smoker over age of 50 spent on spending on medications and other healthcare supports, as well as difference in medical cost in different countries. In addition, we want to possibly integrate the knowledge of healthcare expenses into the realm of psychology, since besides medication costs, treatment and therapy for mental disorders are also considered in medical expenses. In conclusion, we deccided to work on this topic because it allows us to understand the healthcare system better, discover the variation in medical cost, and how it can be related to different realms of study. Ultimately, creating a chance for people to have a different perspective on healthcare costs.
+{Add your stuff here}
 
 ## Describe your dataset in about 150-200 words
 
-**Please remember to update this section**
-
-{Add your stuff here}
+This dataset is provided by the Kaggle website and the original copy of the resources is from the book *Machine Learning with R* by Brett Lantz. Licensed by Database Contents License (DbCL).The dataset explains the medical insurance expense that effect by certain attributes. The attributes includes age, sex, bmi, children, smoker, and region. This dataset is really interesting as it also includes the region as part of consideration, the region difference might affect their living behaviours, living condition, weather difference, and taxation which create difference in the price. It is sampled within the USA with over 1000 people being surveyed. The dataset is basically for educational purposes, it is a good resource for the healthcare research as it relates the personal unique data with the healthcare expense. Also, this dataset is beneficial to the insurance company, which can use these data to measure different needs for each of their customers. In conclusion, we would like to use this dataset to identify what makes the price different when a certain attribute is changed. 
 
 ## Team Members
 
