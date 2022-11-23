@@ -1,0 +1,6 @@
+def load_and_process(url_or_path_to_csv_file):
+    over30_df=pd.read_csv(url_or_path_to_csv_file).drop(['children','smoker','region'],axis="columns").loc[lambda x: x['age']>30].loc[lambda x: x['age']<50].loc[lambda x: x['sex']=="female"].loc[lambda x: x['bmi']>24.9]
+    over50_df=pd.read_csv(url_or_path_to_csv_file).drop(['children','smoker','region'],axis="columns").loc[lambda x: x['age']>50].loc[lambda x: x['sex']=="female"].loc[lambda x: x['bmi']>24.9]
+    avg30_df=pd.read_csv(url_or_path_to_csv_file).drop(['children','smoker','region'],axis="columns").loc[lambda x: x['age']>30].loc[lambda x: x['sex']=="female"].loc[lambda x: x['bmi']<24.9].loc[lambda x: x['bmi']>18.5]
+
+    return over30_df, over50_df, avg30_df

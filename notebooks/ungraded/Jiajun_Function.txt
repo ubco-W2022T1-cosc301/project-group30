@@ -1,0 +1,4 @@
+def load_and_process(url_or_path_to_csv_file):
+    Over50_df = pd.read_csv(url_or_path_to_csv_file).drop(["bmi", "children", "region"], axis = "columns").loc[lambda x: x['age']>50].loc[lambda x: x['smoker'] == "yes"].loc[lambda x: x['sex'] == "male"].sort_values("charges", ascending=False)
+    Over18_df = pd.read_csv(url_or_path_to_csv_file).drop(["bmi", "children", "region"], axis = "columns").loc[lambda x: x['age']<50].loc[lambda x: x['age']>18].loc[lambda x: x['smoker'] == "yes"].loc[lambda x: x['sex'] == "male"].sort_values("charges", ascending=False)
+    return Over50_df, Over18_df

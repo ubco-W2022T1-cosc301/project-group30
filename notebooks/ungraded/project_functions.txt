@@ -1,0 +1,3 @@
+def load_and_process(dataset_path):
+    df = pd.read_csv("../data/raw/Medical_Cost.csv").drop(["bmi", "smoker", "region"], axis = "columns").loc[lambda x: (x["age"] > 30) & (x["age"] < 50) & (x['children'] > 0) & (x['sex'] == 'female')].sort_values('children', ascending = True)
+    return df
