@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 30 - {Medical Cost Data Analysis}
 
 **Please remember to update this section**
 
@@ -32,7 +32,6 @@ This dataset is provided by the Kaggle website and the original copy of the reso
 
 {You can use this area for any images you want to include}
 
-<img src ="images/test.png" width="100px">
 
 ## References
 
