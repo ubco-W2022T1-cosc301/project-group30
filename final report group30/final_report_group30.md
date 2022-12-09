@@ -40,11 +40,11 @@ On the second and third graph she try to narrowing down by age. The aged 30-50 p
 
 The third research question is asked by Terry Chang. He hypothesized that there will be a positive relationship with the number of children female has and medical costs. According to prevalence of mental disorders like depression and anxiety, women are more likely than men to have those disorders. Some theories suggested this is because women faced more social stress than men, one of which could be having children. Therefore, with having more children, a simulation as having more social stress, should suggest women with more children will seek therapy or treatment more often, thus increasing their medical costs. This research question focused on female age between 30 to 50. Visualizations were made to help answer this question.
 
-![overalChargeAndChildren](RQ3_1.jpg)
+![overalChargeAndChildren](RQ3_1.JPG)
 
 The first graph displays the overal cost by each women in the dataset age between 30 to 50, whereas the second graph shows the number of children each female have in the same dataset. By comparing the two together, we can see a pattern where having more children does not necessarily contributes to increasing healthcare costs. For example, a lot of high medical costs were made by women with one to two children, spending over 40K, and only a few were made by women with more than 3 children. 
 
-![Averagecost](RQ3_2.jpg)
+![Averagecost](RQ3_2.JPG)
 
 The third graph shows the average medical cost based on the number of children female in this dataset has. With this graph, it is clear that there is no positive correlation between number of children one has and healthcare cost. As shown by the graph, the highest average cost was female with two children, over 13K on average. When comparing this graph with the first and the second, we can see that the highest medical costs lie in range of female with two children. Based on these information, the answer to the third research question will be either women does not consider having more children as increase stress, or that having more chilren does not simulate as having more social stress, therefore, we see no increase medical costs in this condition because they are not spending more on treatment for stress. 
 
